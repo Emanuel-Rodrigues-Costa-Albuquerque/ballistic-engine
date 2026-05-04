@@ -1,0 +1,18 @@
+
+# Build
+build/
+*.exe
+*.out
+*.o
+
+# Clang/LLVM
+*.ll
+*.bc
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
